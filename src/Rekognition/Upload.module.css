@@ -1,0 +1,42 @@
+label {
+    padding-bottom: 20vh;
+    margin: 10vh;
+    margin-top: 30vh;
+    
+}
+input{
+    width: 30vw;
+    height: 5vh;
+    text-align: center;
+    border: 1px solid black;
+    margin-left: 3vw;
+    padding-top: 2.5vh;
+    border-radius: 10px;
+    background-color: rgb(109, 154, 196);
+    
+}
+h2{
+    margin-left: 1vw;
+}
+img{
+    width: 40vw;
+    height: 60vh;
+    margin-top: 3vh;
+}
+h1{
+    width: 99vw;
+    height: 10vh;
+    background-color: rgb(109, 154, 196);
+    padding-top: 8px;
+    margin-top: 0%;
+    text-align: center;
+}
+tr{
+    box-shadow: -1px 4px 9px 0px rgba(0,0,0,0.75);
+    background-color: rgb(170, 200, 228);
+}
+th{
+    display: flex;
+    width: 80vw;
+    margin-left: 10vw;
+}
